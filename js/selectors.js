@@ -22,4 +22,5 @@ function divSelector() {
 
 function firstListItem() {
   answer= $('ul li:first-child')
+  return answer;
 }
