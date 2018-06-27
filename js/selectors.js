@@ -20,4 +20,7 @@ function divSelector() {
   return answer;
 }
 
-function 
+function firstListItem() {
+  answer= $('ul li:first-child')
+  return answer
+}
